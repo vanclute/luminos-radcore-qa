@@ -19,7 +19,7 @@ git clone https://github.com/vanclute/luminos-radcore-qa.git
 cd luminos-radcore-qa
 ```
 
-Everything you create — test scripts, notes, plans, bug reports — goes inside this directory.
+Everything you create - test scripts, notes, plans, bug reports - goes inside this directory.
 
 ---
 
